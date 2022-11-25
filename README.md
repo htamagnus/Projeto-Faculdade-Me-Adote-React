@@ -19,9 +19,13 @@ Todas as pastas dentro de Components seguem praticamente o mesmo padrão:
 • um ou mais arquivo PNG: imagem ou ícone utilizado naquele componente;
 
 
+
+
 Ainda dentro da pasta src, criei a pasta Assets, onde ficam organizados os ícones padrões da página.
 
 A pasta Assets possui alguns arquivos necessários para os componentes, pois, algumas imagens e ícones é melhor manter dentro do próprio component, para uma melhor manutenção. Geralmente, dentro do assets, ficam as imagens e ícones mais globais.
+
+
 
 Também na pasta src, criei a pasta styles, onde se encontra:
 
@@ -32,6 +36,7 @@ Também na pasta src, criei a pasta styles, onde se encontra:
 
 
 Por fim, na pasta src, criei também a pasta pages, onde fica todas as páginas feita na aplicação web. Nesse caso, só temos uma, que é a página inicial. Mas, há a possibilidade de termos outras, como a Página de "Quero Adotar", "Quero Ajudar", "Quero Apadrinhar". No JSX da página inicial, é onde faço a chamada de todos os components que foram criados.
+
 
 
 Na raíz da pasta src, existem dois arquivos: o App.js e o index.js. 
