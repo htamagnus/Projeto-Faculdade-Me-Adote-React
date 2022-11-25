@@ -1,5 +1,10 @@
 # Projeto-Faculdade-Me-Adote-React
  
+ 
+Projeto no ar: https://vercel.com/htamagnus/projeto-faculdade-me-adote-react-valg
+
+
+
 Projeto feito em React, para uma cadeira na faculdade. 
 
 O desafio era implementar o front-end de uma aplicação Web, proposta em HTML, CSS e JavaScript, ou usando algum framework de desenvolvimento. Eu optei pelo uso do React, por diversas razões. O React é flexível, tem um tempo muito bom de carregamento de páginas, e principalmente pelo uso dos componentes reutilizáveis, a reutilização e combinação de componentes no código.
