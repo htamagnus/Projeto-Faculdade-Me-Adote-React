@@ -1,8 +1,7 @@
 # Projeto-Faculdade-Me-Adote-React
  
  
-Projeto no ar: https://vercel.com/htamagnus/projeto-faculdade-me-adote-react-valg
-
+Projeto no ar: https://projeto-faculdade-me-adote-react-valg-j7lo9a055-htamagnus.vercel.app/
 
 
 Projeto feito em React, para uma cadeira na faculdade. 
